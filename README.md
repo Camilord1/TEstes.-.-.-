@@ -23,9 +23,9 @@ vezes a extração de dados estratégicos para a empresa.”
 Modernizar o processo de armazenamento de dados da empresa Resilia.
 
 ### **Features**
-- [ ] Script em Python
-- [x ] Apresentação do Projeto em PDF
-- [ ] Códigos versionados no github.com
+- [] Script em Python
+- [x] Apresentação do Projeto em PDF
+- [] Códigos versionados no github.com
 - [] Script em Python
 - [x] Apresentação do Projeto em PDF
 - [x] Códigos versionados no github.com
